@@ -39,3 +39,10 @@ https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC
 
 #### (프로그래머스) 신규 아이디 추천
 https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%8B%A0%EA%B7%9C-%EC%95%84%EC%9D%B4%EB%94%94-%EC%B6%94%EC%B2%9C
+
+## 2021.12.28
+#### (프로그래머스) 프린터
+https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%94%84%EB%A6%B0%ED%84%B0
+
+#### (프로그래머스) 폰켓몬
+https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%8F%B0%EC%BC%93%EB%AA%AC
