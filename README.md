@@ -48,6 +48,6 @@ https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC
 https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%8F%B0%EC%BC%93%EB%AA%AC
 
 
-## 2021.12.28
+## 2021.12.29
 #### (프로그래머스) 소수 만들기
 https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%86%8C%EC%88%98-%EB%A7%8C%EB%93%A4%EA%B8%B0
